@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Jan 2021 20:48:24 at https://fanaticforfitness79353315.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fanaticforfitness79353315.wordpress.com/ -O1 "C:\My Web Sites\FFF" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/experts/?share=twitter
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/experts/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Experts&url=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Fexperts%2F
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/experts/?share=facebook
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/experts/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Fexperts%2F&t=Experts
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/testing/?share=twitter
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/testing/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Testing&url=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Ftesting%2F
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/testing/?share=facebook
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/testing/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Ftesting%2F&t=Testing
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/underweight/?share=twitter
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/underweight/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Underweight&url=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Funderweight%2F
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/underweight/?share=facebook
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/underweight/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Funderweight%2F&t=Underweight
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/overweight/?share=twitter
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/overweight/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Overweight&url=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Foverweight%2F
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/overweight/?share=facebook
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/overweight/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Foverweight%2F&t=Overweight
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/our-devices/?share=twitter
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/our-devices/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Our%20Devices&url=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Four-devices%2F
+20:50:24	Warning: 	Found for https://fanaticforfitness79353315.wordpress.com/our-devices/?share=facebook
+20:50:24	Warning: 	File has moved from https://fanaticforfitness79353315.wordpress.com/our-devices/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffanaticforfitness79353315.wordpress.com%2Four-devices%2F&t=Our%20Devices
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 0 seconds : 45 links scanned, 33 files written (2796514 bytes overall) [2373730 bytes received at 19781 bytes/sec], 635193 bytes transferred using HTTP compression in 26 files, ratio 30%, 1.6 requests per connection
+(No errors, 20 warnings, 0 messages)
